@@ -43,7 +43,7 @@ This repository contains all the essential files and notebooks used in my resear
 
 ## Dashboard Integration
 
-For practical application, an **interactive investment dashboard** has been developed to visualize predictions and assist investors in decision-making. The dashboard repository can be found [here](https://github.com/your-username/investment-dashboard).
+For practical application, an **interactive investment dashboard** has been developed to visualize predictions and assist investors in decision-making. The dashboard repository can be found [here](https://github.com/TimurMMD/dashboard).
 
 ---
 
